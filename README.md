@@ -25,7 +25,7 @@ etc
 
 ###
     public static class Telefono
-{
+    {
 
     public static string Check(string[] vettore)
     {
@@ -57,5 +57,5 @@ etc
         
         return false;
     }
-}
+    }
 ###
