@@ -59,3 +59,6 @@ etc
     }
     }
 ###
+nella prima parte del codice noi cerchiamo dentro una stringa un numero di italiano valido.
+mentre,
+nella seconda parte di codice, noi verifichiamo la lunghezza del numero e il suo profisso con la funzione bool(booleano) che coverte il suo valore in un vero o falso.
